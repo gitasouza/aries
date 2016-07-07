@@ -1,0 +1,11 @@
+1) Subir mongo
+c:\Program Files\MongoDB\Server\3.2\bin>mongod
+
+2) subir agenda_server
+c:\Sites\agenda_server>npm start
+
+3) Conta no git
+gitasouza
+git1007
+correaasouzaca@gmail.com
+
